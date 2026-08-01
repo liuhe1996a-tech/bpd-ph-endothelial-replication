@@ -1,0 +1,26 @@
+R version 4.5.1 (2025-06-13 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8 
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8   
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                               
+[5] LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] edgeR_4.8.2       limma_3.66.0      data.table_1.17.8
+
+loaded via a namespace (and not attached):
+[1] compiler_4.5.1    R.methodsS3_1.8.2 grid_4.5.1        locfit_1.5-9.12  
+[5] R.utils_2.13.0    R.oo_1.27.1       lattice_0.22-7    statmod_1.5.2    

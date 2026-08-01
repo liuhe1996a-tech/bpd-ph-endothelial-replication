@@ -1,0 +1,20 @@
+{
+  "multi_subtype_mouse_signature_genes": 33,
+  "pass_DESeq2_formal_lfc1_FDR05": 21,
+  "pass_edgeR_glmTreat_any_concordant_subtype": 32,
+  "pass_edgeR_glmTreat_at_least_2_subtypes": 29,
+  "pass_edgeR_glmTreat_at_least_3_subtypes": 15,
+  "pass_both_DESeq2_and_edgeR_any": 21,
+  "pass_both_DESeq2_and_edgeR_at_least_3": 11,
+  "human_cell_threshold_for_primary_subtype_reporting": 10,
+  "excluded_from_primary_subtype_reporting": [
+    "abCap",
+    "Systemic venous EC"
+  ],
+  "all_endothelial_original_includes_all_seven_subtypes": true,
+  "composition_restricted_aggregate_excludes": [
+    "abCap",
+    "Systemic venous EC"
+  ],
+  "composition_balanced_method": "Equal arithmetic mean of donor-level oriented scores across gCap, aCap, Arterial EC, Pulmonary venous EC and Lymphatic after subtype-specific standardization."
+}

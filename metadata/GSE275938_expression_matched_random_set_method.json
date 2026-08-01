@@ -1,0 +1,26 @@
+{
+  "permutations_per_subtype_signature": 2000,
+  "tested_subtypes": [
+    "All Endothelial",
+    "Arterial EC",
+    "Lymphatic",
+    "Pulmonary venous EC",
+    "aCap",
+    "gCap"
+  ],
+  "matching_variables": [
+    "mean expression decile",
+    "number of disease donors with nonzero counts",
+    "signature size",
+    "mouse up/down direction composition within matching stratum"
+  ],
+  "eligible_random_gene_universe": "Genes with total raw count >=10, nonzero counts in >=2 disease donors, nonzero donor-level expression variance, and a reciprocal one-to-one mouse-human relationship in NCBI Gene; all formal mouse-signature genes were excluded from the random pool.",
+  "orthology_restriction": "Reciprocal one-to-one mouse-human mappings in NCBI Gene gene_orthologs downloaded 2026-07-30; human symbols were taken from Homo_sapiens.gene_info downloaded on the same date.",
+  "expression_transform": "TMM-normalized log2 CPM reproduced exactly from edgeR::cpm(log=TRUE, prior.count=0.5, normalized.lib.sizes=TRUE), including effective-library-size scaling of the prior count.",
+  "mouse_direction_assignment_for_random_sets": "Random human genes do not receive gene-specific mouse effects. Within each expression/detection stratum, the observed signature mouse-direction template is shuffled and assigned to sampled genes, preserving signature size and up/down composition.",
+  "empirical_p_formula": "(1 + number of null effects >= observed effect) / (2000 + 1)",
+  "pool_construction": "A separate eligible and matched random-gene pool was constructed for each tested endothelial population.",
+  "sampling_with_replacement": false,
+  "multiple_testing": "Benjamini-Hochberg adjustment across all tested endothelial subtypes separately for each signature definition.",
+  "interpretation": "The empirical test evaluates signature specificity relative to expression-matched random genes; it does not create additional human donors or establish clinical validation."
+}
