@@ -28,5 +28,6 @@ and all 26 figure QA checks passed. See `docs/R5_clean_reproduction_audit.json`.
 
 ## Citation and release
 
-Citation metadata are provided in `CITATION.cff`. A permanent archival DOI
-and the final software license should be added before public release.
+Citation metadata are provided in `CITATION.cff`. The analysis code corresponding
+to the submitted manuscript is publicly available in this repository. A permanent
+archival DOI will be added upon publication.
