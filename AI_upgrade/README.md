@@ -1,4 +1,4 @@
-# Benchmark-guided AI upgrade
+# Benchmark-guided virtual-cell analyses
 
 This directory reproduces the additional analyses used in the manuscript. The
 workflow was designed to test whether a virtual-cell model adds predictive
@@ -46,6 +46,6 @@ GEO files.
 
 ## Environment
 
-Python and R package versions are listed in `requirements_ai.txt` and in the
-Nature Portfolio Reporting Summary. The workflow accepts all paths through the
+Python and R package versions are listed in `requirements_ai.txt` and the
+environment/session-information files. The workflow accepts all paths through the
 JSON configuration and contains no author-specific filesystem paths.
