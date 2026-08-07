@@ -1,33 +1,43 @@
-# BPD-PH endothelial replication and cross-species projection
+# Neonatal lung endothelial virtual-cell benchmark
 
-Reproducible code for the manuscript **“Replicated capillary endothelial
-responses to neonatal hyperoxia with exploratory projection to human
-BPD-associated pulmonary hypertension.”**
+Reproducible code for the manuscript **Simple baselines match variational autoencoders in a cross-dataset neonatal lung endothelial benchmark**.
 
-The workflow integrates GSE216046 mouse bulk RNA-seq, GSE151974 animal-level
-endothelial pseudobulk replication, and an explicitly exploratory GSE275938
-human endothelial projection. Biological replication is defined at the animal
-or donor level. All public inputs have fixed URLs and SHA-256 checksums.
+The repository contains two linked workflows:
+
+1. cross-dataset mouse endothelial discovery and replication with an exploratory human projection;
+2. held-out virtual-cell benchmarking, independent capillary calibration, regulon analysis, p53 perturbation calibration and animal-balanced ligand-receptor analysis.
+
+## Data
+
+All inputs are public. The main accessions are GSE216046, GSE151974 and GSE275938. Large expression matrices are downloaded locally and are not committed to Git. Fixed URLs and SHA-256 checksums are recorded in `config/download_manifest.tsv` and the accompanying manifests.
+
+## Environment
+
+- Python 3.12: `pip install -r requirements.txt` and `pip install -r AI_upgrade/requirements_ai.txt`
+- R 4.5.1: install versions listed in `environment/R_packages.tsv`
 
 ## Reproduce
 
-1. Install Python 3.12 packages with `pip install -r requirements.txt`.
-2. Install R 4.5.1 packages listed in `environment/R_packages.tsv`.
-3. Run `python run_all.py` for a dry-run command plan.
-4. Run `python run_all.py --execute --rscript /path/to/Rscript`.
+Copy `AI_upgrade/workflow_config.example.json` to a local configuration file and update project-relative paths. Inspect both command plans with:
 
-Outputs are created under `04_processed/`, `07_results/`, `08_figures/`, and
-`09_plotting_data/`. Raw inputs are downloaded under `02_raw/` and are not
-tracked by Git.
+```text
+python run_bib_workflow.py --ai-config AI_upgrade/workflow_config.example.json
+```
 
-## Reproducibility status
+Execute the complete workflow with:
 
-The frozen R5 workflow was executed from a clean output directory on
-2026-07-31. Nine core result tables matched the manuscript-freeze results,
-and all 26 figure QA checks passed. See `docs/R5_clean_reproduction_audit.json`.
+```text
+python run_bib_workflow.py --execute --rscript /path/to/Rscript --ai-config /path/to/workflow_config.json
+```
 
-## Citation and release
+The base workflow can be skipped when its frozen outputs already exist:
 
-Citation metadata are provided in `CITATION.cff`. The analysis code corresponding
-to the submitted manuscript is publicly available in this repository. A permanent
-archival DOI will be added upon publication.
+```text
+python run_bib_workflow.py --execute --skip-base --ai-config /path/to/workflow_config.json
+```
+
+The virtual-cell models use seed 20260807. Other fixed seeds are documented in the workflow README files. Predictions are evaluated at the animal level, and the VAE results are reported even where they do not outperform simpler baselines.
+
+## Release
+
+The code corresponding to the Briefings in Bioinformatics submission is tagged `v1.1.0-bib-submission`. A permanent archival DOI can be added through Zenodo after the authors enable repository archiving.

@@ -1,0 +1,39 @@
+{
+  "project_root": ".",
+  "paths": {
+    "raw_count_matrix": "inputs/GSE151974_raw_umi_matrix_postfilter.csv.gz",
+    "raw_cell_metadata": "inputs/GSE151974_cell_metadata_postfilter.csv.gz",
+    "mouse_signature": "inputs/mouse_signature_33.tsv",
+    "collectri_network": "inputs/collectri_mouse.tsv",
+    "omnipath_lr_resource": "inputs/omnipath_mouse_ligand_receptor.tsv",
+    "external_cellchat_results": "inputs/GSE151974_external_CellChatDB_routes.tsv",
+    "jci_hyperoxia": "inputs/JCI_capillary_hyperoxia.tsv",
+    "jci_p53_null": "inputs/JCI_global_p53_null.tsv",
+    "jci_p53_endothelial": "inputs/JCI_endothelial_p53_deletion.tsv",
+    "results_root": "results",
+    "endothelial_matrix_dir": "results/endothelial_matrix",
+    "virtual_cell_dir": "results/virtual_cell_all_ages",
+    "regulon_dir": "results/regulon",
+    "ligand_receptor_dir": "results/ligand_receptor",
+    "external_calibration_dir": "results/external_virtual_cell_calibration",
+    "paired_comparison_dir": "results/virtual_cell_model_comparison",
+    "figures_dir": "figures"
+  },
+  "parameters": {
+    "virtual_cell": {
+      "heldout_ages": ["P3", "P7", "P14"],
+      "n_hvg": 1800,
+      "latent_dim": 32,
+      "max_epochs": 80,
+      "batch_size": 256,
+      "beta": 0.0001,
+      "bootstrap": 500,
+      "seed": 20260807
+    },
+    "ligand_receptor": {
+      "chunk_size": 100,
+      "min_cells": 20,
+      "min_logcpm": 0.6931471805599453
+    }
+  }
+}
