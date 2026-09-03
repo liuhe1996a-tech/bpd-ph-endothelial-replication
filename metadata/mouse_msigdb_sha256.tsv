@@ -1,4 +1,0 @@
-version	collection	url	filename	bytes	sha256
-2026.1.Mm	mh.all	https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2026.1.Mm/mh.all.v2026.1.Mm.symbols.gmt	mh.all.v2026.1.Mm.symbols.gmt	48007	3a21be724a87dc0375955e725ca9688b87a26e7b74b62fba0c62da0967b789f7
-2026.1.Mm	m2.cp.reactome	https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2026.1.Mm/m2.cp.reactome.v2026.1.Mm.symbols.gmt	m2.cp.reactome.v2026.1.Mm.symbols.gmt	659129	3beeef870afc4bb803f8e7aa184f8c98a22bcc799b702b48dc7f9c85d50cd3a9
-2026.1.Mm	m5.go.bp	https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2026.1.Mm/m5.go.bp.v2026.1.Mm.symbols.gmt	m5.go.bp.v2026.1.Mm.symbols.gmt	5093307	fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1
