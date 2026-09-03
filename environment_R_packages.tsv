@@ -1,0 +1,8 @@
+package	version
+BiocParallel	1.44.0
+data.table	1.17.8
+edgeR	4.8.2
+fgsea	1.36.2
+limma	3.66.0
+Matrix	1.7-3
+SeuratObject	5.4.0
