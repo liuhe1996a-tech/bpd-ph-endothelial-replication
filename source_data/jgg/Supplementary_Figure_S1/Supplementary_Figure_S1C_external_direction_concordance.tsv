@@ -1,0 +1,7 @@
+study	gene_set	genes_tested	direction_concordant	direction_concordance_fraction	gene_set_label
+GSE243129	multisubtype_33	29	26	0.896551724137931	33-gene set
+GSE243129	replicated_198	91	76	0.835164835164835	198-gene set
+GSE209664	multisubtype_33	33	32	0.96969696969697	33-gene set
+GSE209664	replicated_198	172	165	0.959302325581395	198-gene set
+GSE230672	multisubtype_33	32	31	0.96875	33-gene set
+GSE230672	replicated_198	191	184	0.963350785340314	198-gene set

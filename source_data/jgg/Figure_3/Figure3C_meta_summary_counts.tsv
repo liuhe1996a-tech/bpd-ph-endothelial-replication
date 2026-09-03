@@ -1,0 +1,7 @@
+gene_set	criterion	genes	gene_set_label	criterion_label
+replicated_198	genes_with_all_three_external_studies	84	198-gene set	Evaluable in all 3
+multisubtype_33	genes_with_all_three_external_studies	29	33-gene set	Evaluable in all 3
+replicated_198	directions_concordant_in_all_three	68	198-gene set	Same direction in all 3
+multisubtype_33	directions_concordant_in_all_three	25	33-gene set	Same direction in all 3
+replicated_198	meta_fdr05_and_all_directions_concordant	66	198-gene set	Direction + meta FDR<0.05
+multisubtype_33	meta_fdr05_and_all_directions_concordant	25	33-gene set	Direction + meta FDR<0.05

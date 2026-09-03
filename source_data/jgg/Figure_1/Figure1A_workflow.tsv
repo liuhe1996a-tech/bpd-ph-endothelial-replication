@@ -1,0 +1,6 @@
+order	stage	content	evidence_color
+1	Discovery	GSE216046; P14 sorted EC; 4 air + 4 hyperoxia	#2166AC
+2	Internal replication	GSE151974; 36 mice, 3 ages; animal pseudobulk	#1B9E77
+3	Fixed features	198 replicated genes; 33 multi-subtype genes; 162 pathways	#7570B3
+4	External validation	3 independent studies; 24 mice in predefined tests; no feature refitting	#D95F02
+5	Evidence synthesis	P14 meta-analysis; age, sex and subtype; boundary analyses	#B2182B

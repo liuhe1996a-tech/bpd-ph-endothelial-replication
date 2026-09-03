@@ -1,0 +1,41 @@
+study	unit	group	score
+"GSE243129
+P14 gCap"	P14_CTRL_RA_1	Room air	-0.685302127329964
+"GSE243129
+P14 gCap"	P14_CTRL_RA_2	Room air	-0.859314041337435
+"GSE243129
+P14 gCap"	P14_CTRL_O2_1	Hyperoxia	0.24612991069937
+"GSE243129
+P14 gCap"	P14_CTRL_O2_2	Hyperoxia	0.106888389646541
+"GSE209664
+P14 capillaries"	hyperoxia_male_mouse_number_4	Hyperoxia	0.772891197256905
+"GSE209664
+P14 capillaries"	hyperoxia_female_mouse_number_4	Hyperoxia	0.8968110346266
+"GSE209664
+P14 capillaries"	hyperoxia_male_mouse_number_3	Hyperoxia	0.682491828750148
+"GSE209664
+P14 capillaries"	hyperoxia_female_mouse_number_2	Hyperoxia	0.760090789873737
+"GSE209664
+P14 capillaries"	hyperoxia_male_mouse_number_1	Hyperoxia	0.795118997812958
+"GSE209664
+P14 capillaries"	hyperoxia_female_mouse_number_1	Hyperoxia	0.817673110212908
+"GSE209664
+P14 capillaries"	room_air_male_mouse_number_4	Room air	-0.71380297578616
+"GSE209664
+P14 capillaries"	room_air_male_mouse_number_3	Room air	-0.763610227275428
+"GSE209664
+P14 capillaries"	room_air_female_mouse_number_3	Room air	-0.753694813618617
+"GSE209664
+P14 capillaries"	room_air_female_mouse_number_2	Room air	-0.615001025552432
+"GSE209664
+P14 capillaries"	room_air_male_mouse_number_1	Room air	-1.18311760357471
+"GSE209664
+P14 capillaries"	room_air_female_mouse_number_1	Room air	-0.695850312725911
+"GSE230672
+P14 sorted EC"	QO23110	Hyperoxia	0.696431866385742
+"GSE230672
+P14 sorted EC"	QO23112	Hyperoxia	0.53725243866661
+"GSE230672
+P14 sorted EC"	QO23118	Room air	-1.30068167014481
+"GSE230672
+P14 sorted EC"	QO23119	Room air	-0.998158891709256
