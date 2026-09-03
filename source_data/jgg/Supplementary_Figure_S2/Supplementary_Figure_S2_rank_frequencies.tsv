@@ -1,0 +1,22 @@
+analysis	method	configurations	mean_spearman	minimum_spearman	maximum_spearman	median_rank	minimum_rank	maximum_rank	times_ranked_first	times_ranked_top3	fraction_ranked_first	fraction_ranked_top3	Sensitivity analysis	Method
+all_nonempty_subsets	cpa_adapted	81	0.4387545567306858	0.327488984212906	0.5389488637470665	4.0	1.0	5.0	5	27	0.0617283950617283	0.3333333333333333	81 non-empty subsets	CPA-style
+all_nonempty_subsets	cvae_counterfactual	81	0.4483853146364175	0.3267725346286	0.5623867003257563	2.0	1.0	5.0	1	75	0.0123456790123456	0.925925925925926	81 non-empty subsets	Conditional VAE
+all_nonempty_subsets	gene_linear	81	0.0569714110009685	0.0188904588256423	0.1070158037928047	7.0	7.0	7.0	0	0	0.0	0.0	81 non-empty subsets	Gene shift
+all_nonempty_subsets	pca_latent	81	0.4037391727997153	0.2849387494990599	0.5263414516039557	6.0	6.0	6.0	0	0	0.0	0.0	81 non-empty subsets	PCA shift
+all_nonempty_subsets	scgen_adapted	81	0.45310961788079	0.3294005018823552	0.5727808094755601	1.0	1.0	2.0	67	81	0.8271604938271605	1.0	81 non-empty subsets	scGen-style
+all_nonempty_subsets	sinkhorn_ot	81	0.4206724052231465	0.299346672062188	0.5484476553087996	5.0	3.0	5.0	0	2	0.0	0.0246913580246913	81 non-empty subsets	Sinkhorn OT
+all_nonempty_subsets	vae_latent	81	0.4472290447566329	0.3220424721079136	0.5704777953598572	3.0	1.0	4.0	8	58	0.0987654320987654	0.7160493827160493	81 non-empty subsets	VAE
+one_pair_per_age_oxygen_stratum	cpa_adapted	16	0.4563013559153779	0.4095105383025594	0.5025886335570935	4.0	1.0	5.0	2	4	0.125	0.25	16 one-pair subsets	CPA-style
+one_pair_per_age_oxygen_stratum	cvae_counterfactual	16	0.4673857925904269	0.4052462887519253	0.5240118613753235	3.0	1.0	4.0	1	15	0.0625	0.9375	16 one-pair subsets	Conditional VAE
+one_pair_per_age_oxygen_stratum	gene_linear	16	0.0618323229920557	0.0274003841384373	0.1037379485989936	7.0	7.0	7.0	0	0	0.0	0.0	16 one-pair subsets	Gene shift
+one_pair_per_age_oxygen_stratum	pca_latent	16	0.4223573297224963	0.3546304998824348	0.4948936102682679	6.0	6.0	6.0	0	0	0.0	0.0	16 one-pair subsets	PCA shift
+one_pair_per_age_oxygen_stratum	scgen_adapted	16	0.4729943178508569	0.4088521196773819	0.5341253776927246	1.0	1.0	2.0	9	16	0.5625	1.0	16 one-pair subsets	scGen-style
+one_pair_per_age_oxygen_stratum	sinkhorn_ot	16	0.4383848530614562	0.3636509810449871	0.5145244708329788	5.0	4.0	5.0	0	0	0.0	0.0	16 one-pair subsets	Sinkhorn OT
+one_pair_per_age_oxygen_stratum	vae_latent	16	0.467070469563664	0.3978522969849328	0.5351216500141972	2.5	1.0	4.0	4	13	0.25	0.8125	16 one-pair subsets	VAE
+leave_one_animal	cpa_adapted	8	0.4164129890986889	0.3545795639788674	0.4818174618288755	4.0	2.0	5.0	0	2	0.0	0.25	8 leave-one-animal subsets	CPA-style
+leave_one_animal	cvae_counterfactual	8	0.4242568210095662	0.3607828332333081	0.5062241433746487	2.0	2.0	3.0	0	8	0.0	1.0	8 leave-one-animal subsets	Conditional VAE
+leave_one_animal	gene_linear	8	0.0493791521135252	0.0261570086756254	0.0871014820870735	7.0	7.0	7.0	0	0	0.0	0.0	8 leave-one-animal subsets	Gene shift
+leave_one_animal	pca_latent	8	0.3796458273862287	0.3140505700764632	0.4470807893444196	6.0	6.0	6.0	0	0	0.0	0.0	8 leave-one-animal subsets	PCA shift
+leave_one_animal	scgen_adapted	8	0.4276234345984432	0.3638932736436853	0.5067907620291864	1.0	1.0	1.0	8	8	1.0	1.0	8 leave-one-animal subsets	scGen-style
+leave_one_animal	sinkhorn_ot	8	0.3979235551273991	0.3307624626686216	0.4681975365078182	5.0	4.0	5.0	0	0	0.0	0.0	8 leave-one-animal subsets	Sinkhorn OT
+leave_one_animal	vae_latent	8	0.421542216349326	0.3557982236457042	0.5015525633406653	3.0	2.0	4.0	0	6	0.0	0.75	8 leave-one-animal subsets	VAE

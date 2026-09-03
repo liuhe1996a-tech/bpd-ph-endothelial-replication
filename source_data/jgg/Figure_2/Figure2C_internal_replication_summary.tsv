@@ -1,0 +1,6 @@
+CellType	model	population_genes_shared	bulk_significant_genes	single_cell_significant_genes	significant_overlap_genes	direction_concordant_overlap_genes	direction_concordance_fraction	hypergeometric_p_value	spearman_all_shared_gene_effects	hypergeometric_fdr_bh	concordance_label
+Cap	age_by_oxygen_P14_contrast	8292	223	1249	179	174	0.972067039106145	1.23797982678306e-108	0.652870015644421	6.18989913391531e-108	174/179
+Cap-a	age_by_oxygen_P14_contrast	7143	196	1037	128	127	0.9921875	2.03637955947522e-61	0.597794590997502	5.09094889868804e-61	127/128
+Vein	age_by_oxygen_P14_contrast	2738	65	400	41	41	1.0	1.2644777277043e-19	0.524785077876825	2.1074628795071602e-19	41/41
+Art	age_by_oxygen_P14_contrast	2870	58	86	17	17	1.0	1.86085479533115e-13	0.462351305796316	2.32606849416394e-13	17/17
+Lymph	age_by_oxygen_P14_contrast	1502	48	36	8	7	0.875	9.20144922524501e-06	0.352204157744776	9.20144922524501e-06	7/8

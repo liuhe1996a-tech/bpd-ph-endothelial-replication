@@ -1,0 +1,6 @@
+endpoint	model	baseline	metric	median_delta	lower_2_5	upper_97_5	win_fraction	n_paired_bootstrap_values	label
+primary_fold_hvg	cvae_counterfactual	pca_latent	spearman_effect	-0.061777708962404	-0.0820293427242267	-0.0425351834136519	0.0	500	Conditional VAE
+primary_fold_hvg	scgen_adapted	pca_latent	spearman_effect	-0.0413199235545309	-0.0563652005041105	-0.0236588622191206	0.0	500	scGen-style
+primary_fold_hvg	cpa_adapted	pca_latent	spearman_effect	-0.0369718330787198	-0.0521271107597341	-0.0195252625304261	0.0	500	CPA-style
+primary_fold_hvg	vae_latent	pca_latent	spearman_effect	-0.0196683812418708	-0.0306475100654407	-0.0066401181531326	0.0	500	VAE
+primary_fold_hvg	sinkhorn_ot	pca_latent	spearman_effect	0.016184695774809	0.0099258642368674	0.0230771013605776	1.0	500	Sinkhorn OT

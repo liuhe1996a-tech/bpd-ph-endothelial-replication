@@ -1,0 +1,4 @@
+collection	locked_pathways	pathways_with_all_external_studies	concordant_in_all_external_studies	fdr05_concordant_in_all_external_studies	fraction_concordant_in_all_external_studies
+GO_BP	95	88	71	22	0.8068181818181818
+Hallmark	19	19	13	4	0.6842105263157895
+Reactome	48	47	38	8	0.8085106382978723

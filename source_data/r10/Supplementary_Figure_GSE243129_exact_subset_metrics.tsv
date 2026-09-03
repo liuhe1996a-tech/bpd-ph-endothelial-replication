@@ -1,0 +1,568 @@
+analysis	configuration	method	mean_spearman_across_four_tasks	rank	Method
+all_nonempty_subsets	1	cpa_adapted	0.4482573309818184	4.0	CPA-style
+all_nonempty_subsets	1	cvae_counterfactual	0.456746755473547	2.0	Conditional VAE
+all_nonempty_subsets	1	gene_linear	0.0447008094968618	7.0	Gene shift
+all_nonempty_subsets	1	pca_latent	0.3966609759617804	6.0	PCA shift
+all_nonempty_subsets	1	scgen_adapted	0.4577561617806899	1.0	scGen-style
+all_nonempty_subsets	1	sinkhorn_ot	0.4109738411809874	5.0	Sinkhorn OT
+all_nonempty_subsets	1	vae_latent	0.4494371486138726	3.0	VAE
+all_nonempty_subsets	2	cpa_adapted	0.4442693867504467	1.0	CPA-style
+all_nonempty_subsets	2	cvae_counterfactual	0.4425252584323749	3.0	Conditional VAE
+all_nonempty_subsets	2	gene_linear	0.0489305782161598	7.0	Gene shift
+all_nonempty_subsets	2	pca_latent	0.3840674012677867	6.0	PCA shift
+all_nonempty_subsets	2	scgen_adapted	0.443238538371792	2.0	scGen-style
+all_nonempty_subsets	2	sinkhorn_ot	0.3939470896395827	5.0	Sinkhorn OT
+all_nonempty_subsets	2	vae_latent	0.433999205759441	4.0	VAE
+all_nonempty_subsets	3	cpa_adapted	0.4704333202778726	3.0	CPA-style
+all_nonempty_subsets	3	cvae_counterfactual	0.4773801912921872	2.0	Conditional VAE
+all_nonempty_subsets	3	gene_linear	0.0522084334099708	7.0	Gene shift
+all_nonempty_subsets	3	pca_latent	0.4135204437731681	6.0	PCA shift
+all_nonempty_subsets	3	scgen_adapted	0.478565056239592	1.0	scGen-style
+all_nonempty_subsets	3	sinkhorn_ot	0.4258624980451358	5.0	Sinkhorn OT
+all_nonempty_subsets	3	vae_latent	0.4694052604261844	4.0	VAE
+all_nonempty_subsets	4	cpa_adapted	0.4879613587130239	4.0	CPA-style
+all_nonempty_subsets	4	cvae_counterfactual	0.5114400365641181	1.0	Conditional VAE
+all_nonempty_subsets	4	gene_linear	0.0445033878194629	7.0	Gene shift
+all_nonempty_subsets	4	pca_latent	0.4362209461372852	6.0	PCA shift
+all_nonempty_subsets	4	scgen_adapted	0.511130126742375	2.0	scGen-style
+all_nonempty_subsets	4	sinkhorn_ot	0.4589826286177443	5.0	Sinkhorn OT
+all_nonempty_subsets	4	vae_latent	0.5027956348377655	3.0	VAE
+all_nonempty_subsets	5	cpa_adapted	0.4774963740442285	4.0	CPA-style
+all_nonempty_subsets	5	cvae_counterfactual	0.4939262845220004	2.0	Conditional VAE
+all_nonempty_subsets	5	gene_linear	0.0466324524734608	7.0	Gene shift
+all_nonempty_subsets	5	pca_latent	0.4203378374604133	6.0	PCA shift
+all_nonempty_subsets	5	scgen_adapted	0.4940103203017696	1.0	scGen-style
+all_nonempty_subsets	5	sinkhorn_ot	0.4400743366964611	5.0	Sinkhorn OT
+all_nonempty_subsets	5	vae_latent	0.4857239684333728	3.0	VAE
+all_nonempty_subsets	6	cpa_adapted	0.5065165977504054	4.0	CPA-style
+all_nonempty_subsets	6	cvae_counterfactual	0.5296544271856174	2.0	Conditional VAE
+all_nonempty_subsets	6	gene_linear	0.0469051507529986	7.0	Gene shift
+all_nonempty_subsets	6	pca_latent	0.4494989374686083	6.0	PCA shift
+all_nonempty_subsets	6	scgen_adapted	0.5297267597522172	1.0	scGen-style
+all_nonempty_subsets	6	sinkhorn_ot	0.4714002714752543	5.0	Sinkhorn OT
+all_nonempty_subsets	6	vae_latent	0.5210348036927873	3.0	VAE
+all_nonempty_subsets	7	cpa_adapted	0.4099289823355578	3.0	CPA-style
+all_nonempty_subsets	7	cvae_counterfactual	0.4174808774998751	2.0	Conditional VAE
+all_nonempty_subsets	7	gene_linear	0.0359934625066679	7.0	Gene shift
+all_nonempty_subsets	7	pca_latent	0.3594698848700244	6.0	PCA shift
+all_nonempty_subsets	7	scgen_adapted	0.418265431537056	1.0	scGen-style
+all_nonempty_subsets	7	sinkhorn_ot	0.3783041461598261	5.0	Sinkhorn OT
+all_nonempty_subsets	7	vae_latent	0.4093798019495828	4.0	VAE
+all_nonempty_subsets	8	cpa_adapted	0.4001813314471851	1.0	CPA-style
+all_nonempty_subsets	8	cvae_counterfactual	0.3987966207764206	3.0	Conditional VAE
+all_nonempty_subsets	8	gene_linear	0.0367223331793785	7.0	Gene shift
+all_nonempty_subsets	8	pca_latent	0.3411264546316689	6.0	PCA shift
+all_nonempty_subsets	8	scgen_adapted	0.4001026217163217	2.0	scGen-style
+all_nonempty_subsets	8	sinkhorn_ot	0.3554123464465688	5.0	Sinkhorn OT
+all_nonempty_subsets	8	vae_latent	0.3909125575608542	4.0	VAE
+all_nonempty_subsets	9	cpa_adapted	0.4272719112131465	3.0	CPA-style
+all_nonempty_subsets	9	cvae_counterfactual	0.4328069193811287	2.0	Conditional VAE
+all_nonempty_subsets	9	gene_linear	0.0387905262270517	7.0	Gene shift
+all_nonempty_subsets	9	pca_latent	0.3702382752090722	6.0	PCA shift
+all_nonempty_subsets	9	scgen_adapted	0.4345953934776517	1.0	scGen-style
+all_nonempty_subsets	9	sinkhorn_ot	0.3868281370530023	5.0	Sinkhorn OT
+all_nonempty_subsets	9	vae_latent	0.4246683090986448	4.0	VAE
+all_nonempty_subsets	10	cpa_adapted	0.4134984825339311	3.0	CPA-style
+all_nonempty_subsets	10	cvae_counterfactual	0.4194677857930975	2.0	Conditional VAE
+all_nonempty_subsets	10	gene_linear	0.0275978058158362	7.0	Gene shift
+all_nonempty_subsets	10	pca_latent	0.3672240745764286	6.0	PCA shift
+all_nonempty_subsets	10	scgen_adapted	0.4233697430862798	1.0	scGen-style
+all_nonempty_subsets	10	sinkhorn_ot	0.3806777325863919	5.0	Sinkhorn OT
+all_nonempty_subsets	10	vae_latent	0.4132902398393643	4.0	VAE
+all_nonempty_subsets	11	cpa_adapted	0.4095105383025594	1.0	CPA-style
+all_nonempty_subsets	11	cvae_counterfactual	0.4052462887519253	3.0	Conditional VAE
+all_nonempty_subsets	11	gene_linear	0.0318275745351342	7.0	Gene shift
+all_nonempty_subsets	11	pca_latent	0.3546304998824348	6.0	PCA shift
+all_nonempty_subsets	11	scgen_adapted	0.4088521196773819	2.0	scGen-style
+all_nonempty_subsets	11	sinkhorn_ot	0.3636509810449871	5.0	Sinkhorn OT
+all_nonempty_subsets	11	vae_latent	0.3978522969849328	4.0	VAE
+all_nonempty_subsets	12	cpa_adapted	0.4356744718299853	3.0	CPA-style
+all_nonempty_subsets	12	cvae_counterfactual	0.4401012216117377	2.0	Conditional VAE
+all_nonempty_subsets	12	gene_linear	0.0351054297289452	7.0	Gene shift
+all_nonempty_subsets	12	pca_latent	0.3840835423878162	6.0	PCA shift
+all_nonempty_subsets	12	scgen_adapted	0.4441786375451819	1.0	scGen-style
+all_nonempty_subsets	12	sinkhorn_ot	0.3955663894505403	5.0	Sinkhorn OT
+all_nonempty_subsets	12	vae_latent	0.4332583516516761	4.0	VAE
+all_nonempty_subsets	13	cpa_adapted	0.4532025102651365	4.0	CPA-style
+all_nonempty_subsets	13	cvae_counterfactual	0.4741610668836685	2.0	Conditional VAE
+all_nonempty_subsets	13	gene_linear	0.0274003841384373	7.0	Gene shift
+all_nonempty_subsets	13	pca_latent	0.4067840447519333	6.0	PCA shift
+all_nonempty_subsets	13	scgen_adapted	0.4767437080479648	1.0	scGen-style
+all_nonempty_subsets	13	sinkhorn_ot	0.4286865200231487	5.0	Sinkhorn OT
+all_nonempty_subsets	13	vae_latent	0.4666487260632572	3.0	VAE
+all_nonempty_subsets	14	cpa_adapted	0.4427375255963411	4.0	CPA-style
+all_nonempty_subsets	14	cvae_counterfactual	0.4566473148415508	2.0	Conditional VAE
+all_nonempty_subsets	14	gene_linear	0.0295294487924352	7.0	Gene shift
+all_nonempty_subsets	14	pca_latent	0.3909009360750614	6.0	PCA shift
+all_nonempty_subsets	14	scgen_adapted	0.4596239016073595	1.0	scGen-style
+all_nonempty_subsets	14	sinkhorn_ot	0.4097782281018656	5.0	Sinkhorn OT
+all_nonempty_subsets	14	vae_latent	0.4495770596588646	3.0	VAE
+all_nonempty_subsets	15	cpa_adapted	0.4717577493025179	4.0	CPA-style
+all_nonempty_subsets	15	cvae_counterfactual	0.4923754575051678	2.0	Conditional VAE
+all_nonempty_subsets	15	gene_linear	0.029802147071973	7.0	Gene shift
+all_nonempty_subsets	15	pca_latent	0.4200620360832565	6.0	PCA shift
+all_nonempty_subsets	15	scgen_adapted	0.495340341057807	1.0	scGen-style
+all_nonempty_subsets	15	sinkhorn_ot	0.4411041628806587	5.0	Sinkhorn OT
+all_nonempty_subsets	15	vae_latent	0.4848878949182791	3.0	VAE
+all_nonempty_subsets	16	cpa_adapted	0.3751701338876704	3.0	CPA-style
+all_nonempty_subsets	16	cvae_counterfactual	0.3802019078194256	2.0	Conditional VAE
+all_nonempty_subsets	16	gene_linear	0.0188904588256423	7.0	Gene shift
+all_nonempty_subsets	16	pca_latent	0.3300329834846724	6.0	PCA shift
+all_nonempty_subsets	16	scgen_adapted	0.3838790128426458	1.0	scGen-style
+all_nonempty_subsets	16	sinkhorn_ot	0.3480080375652306	5.0	Sinkhorn OT
+all_nonempty_subsets	16	vae_latent	0.3732328931750745	4.0	VAE
+all_nonempty_subsets	17	cpa_adapted	0.3654224829992978	2.0	CPA-style
+all_nonempty_subsets	17	cvae_counterfactual	0.3615176510959711	3.0	Conditional VAE
+all_nonempty_subsets	17	gene_linear	0.0196193294983529	7.0	Gene shift
+all_nonempty_subsets	17	pca_latent	0.3116895532463171	6.0	PCA shift
+all_nonempty_subsets	17	scgen_adapted	0.3657162030219116	1.0	scGen-style
+all_nonempty_subsets	17	sinkhorn_ot	0.3251162378519732	5.0	Sinkhorn OT
+all_nonempty_subsets	17	vae_latent	0.3547656487863459	4.0	VAE
+all_nonempty_subsets	18	cpa_adapted	0.3925130627652592	3.0	CPA-style
+all_nonempty_subsets	18	cvae_counterfactual	0.3955279497006791	2.0	Conditional VAE
+all_nonempty_subsets	18	gene_linear	0.0216875225460261	7.0	Gene shift
+all_nonempty_subsets	18	pca_latent	0.3408013738237204	6.0	PCA shift
+all_nonempty_subsets	18	scgen_adapted	0.4002089747832416	1.0	scGen-style
+all_nonempty_subsets	18	sinkhorn_ot	0.3565320284584068	5.0	Sinkhorn OT
+all_nonempty_subsets	18	vae_latent	0.3885214003241366	4.0	VAE
+all_nonempty_subsets	19	cpa_adapted	0.4641753380228916	3.0	CPA-style
+all_nonempty_subsets	19	cvae_counterfactual	0.4702637907267235	2.0	Conditional VAE
+all_nonempty_subsets	19	gene_linear	0.0419479035611775	7.0	Gene shift
+all_nonempty_subsets	19	pca_latent	0.4133791321147387	6.0	PCA shift
+all_nonempty_subsets	19	scgen_adapted	0.472665339707339	1.0	scGen-style
+all_nonempty_subsets	19	sinkhorn_ot	0.428636098380263	5.0	Sinkhorn OT
+all_nonempty_subsets	19	vae_latent	0.4637325647128465	4.0	VAE
+all_nonempty_subsets	20	cpa_adapted	0.4601873937915199	1.0	CPA-style
+all_nonempty_subsets	20	cvae_counterfactual	0.4560422936855513	3.0	Conditional VAE
+all_nonempty_subsets	20	gene_linear	0.0461776722804755	7.0	Gene shift
+all_nonempty_subsets	20	pca_latent	0.4007855574207449	6.0	PCA shift
+all_nonempty_subsets	20	scgen_adapted	0.4581477162984411	2.0	scGen-style
+all_nonempty_subsets	20	sinkhorn_ot	0.4116093468388583	5.0	Sinkhorn OT
+all_nonempty_subsets	20	vae_latent	0.4482946218584149	4.0	VAE
+all_nonempty_subsets	21	cpa_adapted	0.4863513273189458	3.0	CPA-style
+all_nonempty_subsets	21	cvae_counterfactual	0.4908972265453637	2.0	Conditional VAE
+all_nonempty_subsets	21	gene_linear	0.0494555274742866	7.0	Gene shift
+all_nonempty_subsets	21	pca_latent	0.4302385999261263	6.0	PCA shift
+all_nonempty_subsets	21	scgen_adapted	0.4934742341662411	1.0	scGen-style
+all_nonempty_subsets	21	sinkhorn_ot	0.4435247552444114	5.0	Sinkhorn OT
+all_nonempty_subsets	21	vae_latent	0.4837006765251583	4.0	VAE
+all_nonempty_subsets	22	cpa_adapted	0.503879365754097	4.0	CPA-style
+all_nonempty_subsets	22	cvae_counterfactual	0.5249570718172945	2.0	Conditional VAE
+all_nonempty_subsets	22	gene_linear	0.0417504818837786	7.0	Gene shift
+all_nonempty_subsets	22	pca_latent	0.4529391022902433	6.0	PCA shift
+all_nonempty_subsets	22	scgen_adapted	0.5260393046690242	1.0	scGen-style
+all_nonempty_subsets	22	sinkhorn_ot	0.4766448858170198	5.0	Sinkhorn OT
+all_nonempty_subsets	22	vae_latent	0.5170910509367393	3.0	VAE
+all_nonempty_subsets	23	cpa_adapted	0.4934143810853016	4.0	CPA-style
+all_nonempty_subsets	23	cvae_counterfactual	0.5074433197751769	2.0	Conditional VAE
+all_nonempty_subsets	23	gene_linear	0.0438795465377766	7.0	Gene shift
+all_nonempty_subsets	23	pca_latent	0.4370559936133715	6.0	PCA shift
+all_nonempty_subsets	23	scgen_adapted	0.5089194982284188	1.0	scGen-style
+all_nonempty_subsets	23	sinkhorn_ot	0.4577365938957367	5.0	Sinkhorn OT
+all_nonempty_subsets	23	vae_latent	0.5000193845323467	3.0	VAE
+all_nonempty_subsets	24	cpa_adapted	0.5224346047914785	4.0	CPA-style
+all_nonempty_subsets	24	cvae_counterfactual	0.5431714624387939	2.0	Conditional VAE
+all_nonempty_subsets	24	gene_linear	0.0441522448173144	7.0	Gene shift
+all_nonempty_subsets	24	pca_latent	0.4662170936215666	6.0	PCA shift
+all_nonempty_subsets	24	scgen_adapted	0.5446359376788663	1.0	scGen-style
+all_nonempty_subsets	24	sinkhorn_ot	0.4890625286745298	5.0	Sinkhorn OT
+all_nonempty_subsets	24	vae_latent	0.5353302197917612	3.0	VAE
+all_nonempty_subsets	25	cpa_adapted	0.4258469893766309	3.0	CPA-style
+all_nonempty_subsets	25	cvae_counterfactual	0.4309979127530516	2.0	Conditional VAE
+all_nonempty_subsets	25	gene_linear	0.0332405565709837	7.0	Gene shift
+all_nonempty_subsets	25	pca_latent	0.3761880410229826	6.0	PCA shift
+all_nonempty_subsets	25	scgen_adapted	0.4331746094637051	1.0	scGen-style
+all_nonempty_subsets	25	sinkhorn_ot	0.3959664033591016	5.0	Sinkhorn OT
+all_nonempty_subsets	25	vae_latent	0.4236752180485567	4.0	VAE
+all_nonempty_subsets	26	cpa_adapted	0.4160993384882583	1.0	CPA-style
+all_nonempty_subsets	26	cvae_counterfactual	0.4123136560295971	3.0	Conditional VAE
+all_nonempty_subsets	26	gene_linear	0.0339694272436942	7.0	Gene shift
+all_nonempty_subsets	26	pca_latent	0.3578446107846272	6.0	PCA shift
+all_nonempty_subsets	26	scgen_adapted	0.4150117996429708	2.0	scGen-style
+all_nonempty_subsets	26	sinkhorn_ot	0.3730746036458443	5.0	Sinkhorn OT
+all_nonempty_subsets	26	vae_latent	0.4052079736598281	4.0	VAE
+all_nonempty_subsets	27	cpa_adapted	0.4431899182542197	3.0	CPA-style
+all_nonempty_subsets	27	cvae_counterfactual	0.4463239546343052	2.0	Conditional VAE
+all_nonempty_subsets	27	gene_linear	0.0360376202913674	7.0	Gene shift
+all_nonempty_subsets	27	pca_latent	0.3869564313620305	6.0	PCA shift
+all_nonempty_subsets	27	scgen_adapted	0.4495045714043009	1.0	scGen-style
+all_nonempty_subsets	27	sinkhorn_ot	0.4044903942522779	5.0	Sinkhorn OT
+all_nonempty_subsets	27	vae_latent	0.4389637251976187	4.0	VAE
+all_nonempty_subsets	28	cpa_adapted	0.4628846058258882	5.0	CPA-style
+all_nonempty_subsets	28	cvae_counterfactual	0.4693185802847526	3.0	Conditional VAE
+all_nonempty_subsets	28	gene_linear	0.0995081798796956	7.0	Gene shift
+all_nonempty_subsets	28	pca_latent	0.4553336400927633	6.0	PCA shift
+all_nonempty_subsets	28	scgen_adapted	0.4807514127310395	2.0	scGen-style
+all_nonempty_subsets	28	sinkhorn_ot	0.466515683396222	4.0	Sinkhorn OT
+all_nonempty_subsets	28	vae_latent	0.4817631637903043	1.0	VAE
+all_nonempty_subsets	29	cpa_adapted	0.4588966615945164	3.0	CPA-style
+all_nonempty_subsets	29	cvae_counterfactual	0.4550970832435804	4.0	Conditional VAE
+all_nonempty_subsets	29	gene_linear	0.1037379485989936	7.0	Gene shift
+all_nonempty_subsets	29	pca_latent	0.4427400653987695	6.0	PCA shift
+all_nonempty_subsets	29	scgen_adapted	0.4662337893221416	2.0	scGen-style
+all_nonempty_subsets	29	sinkhorn_ot	0.4494889318548173	5.0	Sinkhorn OT
+all_nonempty_subsets	29	vae_latent	0.4663252209358729	1.0	VAE
+all_nonempty_subsets	30	cpa_adapted	0.4850605951219423	4.0	CPA-style
+all_nonempty_subsets	30	cvae_counterfactual	0.4899520161033928	3.0	Conditional VAE
+all_nonempty_subsets	30	gene_linear	0.1070158037928047	7.0	Gene shift
+all_nonempty_subsets	30	pca_latent	0.4721931079041509	6.0	PCA shift
+all_nonempty_subsets	30	scgen_adapted	0.5015603071899417	2.0	scGen-style
+all_nonempty_subsets	30	sinkhorn_ot	0.4814043402603704	5.0	Sinkhorn OT
+all_nonempty_subsets	30	vae_latent	0.5017312756026162	1.0	VAE
+all_nonempty_subsets	31	cpa_adapted	0.5025886335570935	5.0	CPA-style
+all_nonempty_subsets	31	cvae_counterfactual	0.5240118613753235	3.0	Conditional VAE
+all_nonempty_subsets	31	gene_linear	0.0993107582022967	7.0	Gene shift
+all_nonempty_subsets	31	pca_latent	0.4948936102682679	6.0	PCA shift
+all_nonempty_subsets	31	scgen_adapted	0.5341253776927246	2.0	scGen-style
+all_nonempty_subsets	31	sinkhorn_ot	0.5145244708329788	4.0	Sinkhorn OT
+all_nonempty_subsets	31	vae_latent	0.5351216500141972	1.0	VAE
+all_nonempty_subsets	32	cpa_adapted	0.4921236488882982	5.0	CPA-style
+all_nonempty_subsets	32	cvae_counterfactual	0.5064981093332059	3.0	Conditional VAE
+all_nonempty_subsets	32	gene_linear	0.1014398228562946	7.0	Gene shift
+all_nonempty_subsets	32	pca_latent	0.4790105015913961	6.0	PCA shift
+all_nonempty_subsets	32	scgen_adapted	0.5170055712521193	2.0	scGen-style
+all_nonempty_subsets	32	sinkhorn_ot	0.4956161789116957	4.0	Sinkhorn OT
+all_nonempty_subsets	32	vae_latent	0.5180499836098046	1.0	VAE
+all_nonempty_subsets	33	cpa_adapted	0.521143872594475	5.0	CPA-style
+all_nonempty_subsets	33	cvae_counterfactual	0.542226251996823	3.0	Conditional VAE
+all_nonempty_subsets	33	gene_linear	0.1017125211358325	7.0	Gene shift
+all_nonempty_subsets	33	pca_latent	0.5081716015995912	6.0	PCA shift
+all_nonempty_subsets	33	scgen_adapted	0.5527220107025668	2.0	scGen-style
+all_nonempty_subsets	33	sinkhorn_ot	0.5269421136904888	4.0	Sinkhorn OT
+all_nonempty_subsets	33	vae_latent	0.5533608188692192	1.0	VAE
+all_nonempty_subsets	34	cpa_adapted	0.4245562571796275	5.0	CPA-style
+all_nonempty_subsets	34	cvae_counterfactual	0.4300527023110806	4.0	Conditional VAE
+all_nonempty_subsets	34	gene_linear	0.0908008328895018	7.0	Gene shift
+all_nonempty_subsets	34	pca_latent	0.4181425490010072	6.0	PCA shift
+all_nonempty_subsets	34	scgen_adapted	0.4412606824874056	2.0	scGen-style
+all_nonempty_subsets	34	sinkhorn_ot	0.4338459883750606	3.0	Sinkhorn OT
+all_nonempty_subsets	34	vae_latent	0.4417058171260145	1.0	VAE
+all_nonempty_subsets	35	cpa_adapted	0.4148086062912549	3.0	CPA-style
+all_nonempty_subsets	35	cvae_counterfactual	0.4113684455876261	4.0	Conditional VAE
+all_nonempty_subsets	35	gene_linear	0.0915297035622123	7.0	Gene shift
+all_nonempty_subsets	35	pca_latent	0.3997991187626518	6.0	PCA shift
+all_nonempty_subsets	35	scgen_adapted	0.4230978726666713	2.0	scGen-style
+all_nonempty_subsets	35	sinkhorn_ot	0.4109541886618033	5.0	Sinkhorn OT
+all_nonempty_subsets	35	vae_latent	0.4232385727372859	1.0	VAE
+all_nonempty_subsets	36	cpa_adapted	0.4418991860572162	5.0	CPA-style
+all_nonempty_subsets	36	cvae_counterfactual	0.4453787441923342	3.0	Conditional VAE
+all_nonempty_subsets	36	gene_linear	0.0935978966098855	7.0	Gene shift
+all_nonempty_subsets	36	pca_latent	0.4289109393400551	6.0	PCA shift
+all_nonempty_subsets	36	scgen_adapted	0.4575906444280014	1.0	scGen-style
+all_nonempty_subsets	36	sinkhorn_ot	0.4423699792682369	4.0	Sinkhorn OT
+all_nonempty_subsets	36	vae_latent	0.4569943242750766	2.0	VAE
+all_nonempty_subsets	37	cpa_adapted	0.4356098777576305	4.0	CPA-style
+all_nonempty_subsets	37	cvae_counterfactual	0.4463587357124585	3.0	Conditional VAE
+all_nonempty_subsets	37	gene_linear	0.069558506757331	7.0	Gene shift
+all_nonempty_subsets	37	pca_latent	0.419567371278869	6.0	PCA shift
+all_nonempty_subsets	37	scgen_adapted	0.4549894537315513	1.0	scGen-style
+all_nonempty_subsets	37	sinkhorn_ot	0.4352896236713977	5.0	Sinkhorn OT
+all_nonempty_subsets	37	vae_latent	0.4495839628221532	2.0	VAE
+all_nonempty_subsets	38	cpa_adapted	0.4316219335262587	4.0	CPA-style
+all_nonempty_subsets	38	cvae_counterfactual	0.4321372386712864	3.0	Conditional VAE
+all_nonempty_subsets	38	gene_linear	0.073788275476629	7.0	Gene shift
+all_nonempty_subsets	38	pca_latent	0.4069737965848753	6.0	PCA shift
+all_nonempty_subsets	38	scgen_adapted	0.4404718303226534	1.0	scGen-style
+all_nonempty_subsets	38	sinkhorn_ot	0.4182628721299929	5.0	Sinkhorn OT
+all_nonempty_subsets	38	vae_latent	0.4341460199677217	2.0	VAE
+all_nonempty_subsets	39	cpa_adapted	0.4577858670536846	4.0	CPA-style
+all_nonempty_subsets	39	cvae_counterfactual	0.4669921715310987	3.0	Conditional VAE
+all_nonempty_subsets	39	gene_linear	0.07706613067044	7.0	Gene shift
+all_nonempty_subsets	39	pca_latent	0.4364268390902567	6.0	PCA shift
+all_nonempty_subsets	39	scgen_adapted	0.4757983481904534	1.0	scGen-style
+all_nonempty_subsets	39	sinkhorn_ot	0.450178280535546	5.0	Sinkhorn OT
+all_nonempty_subsets	39	vae_latent	0.469552074634465	2.0	VAE
+all_nonempty_subsets	40	cpa_adapted	0.4753139054888359	5.0	CPA-style
+all_nonempty_subsets	40	cvae_counterfactual	0.5010520168030295	3.0	Conditional VAE
+all_nonempty_subsets	40	gene_linear	0.0693610850799321	7.0	Gene shift
+all_nonempty_subsets	40	pca_latent	0.4591273414543737	6.0	PCA shift
+all_nonempty_subsets	40	scgen_adapted	0.5083634186932364	1.0	scGen-style
+all_nonempty_subsets	40	sinkhorn_ot	0.4832984111081545	4.0	Sinkhorn OT
+all_nonempty_subsets	40	vae_latent	0.5029424490460461	2.0	VAE
+all_nonempty_subsets	41	cpa_adapted	0.4648489208200405	4.0	CPA-style
+all_nonempty_subsets	41	cvae_counterfactual	0.4835382647609119	3.0	Conditional VAE
+all_nonempty_subsets	41	gene_linear	0.07149014973393	7.0	Gene shift
+all_nonempty_subsets	41	pca_latent	0.4432442327775019	6.0	PCA shift
+all_nonempty_subsets	41	scgen_adapted	0.4912436122526311	1.0	scGen-style
+all_nonempty_subsets	41	sinkhorn_ot	0.4643901191868713	5.0	Sinkhorn OT
+all_nonempty_subsets	41	vae_latent	0.4858707826416535	2.0	VAE
+all_nonempty_subsets	42	cpa_adapted	0.4938691445262173	5.0	CPA-style
+all_nonempty_subsets	42	cvae_counterfactual	0.5192664074245289	3.0	Conditional VAE
+all_nonempty_subsets	42	gene_linear	0.0717628480134678	7.0	Gene shift
+all_nonempty_subsets	42	pca_latent	0.4724053327856969	6.0	PCA shift
+all_nonempty_subsets	42	scgen_adapted	0.5269600517030786	1.0	scGen-style
+all_nonempty_subsets	42	sinkhorn_ot	0.4957160539656645	4.0	Sinkhorn OT
+all_nonempty_subsets	42	vae_latent	0.521181617901068	2.0	VAE
+all_nonempty_subsets	43	cpa_adapted	0.3972815291113698	5.0	CPA-style
+all_nonempty_subsets	43	cvae_counterfactual	0.4070928577387866	3.0	Conditional VAE
+all_nonempty_subsets	43	gene_linear	0.0608511597671371	7.0	Gene shift
+all_nonempty_subsets	43	pca_latent	0.3823762801871129	6.0	PCA shift
+all_nonempty_subsets	43	scgen_adapted	0.4154987234879174	1.0	scGen-style
+all_nonempty_subsets	43	sinkhorn_ot	0.4026199286502363	4.0	Sinkhorn OT
+all_nonempty_subsets	43	vae_latent	0.4095266161578634	2.0	VAE
+all_nonempty_subsets	44	cpa_adapted	0.3875338782229972	4.0	CPA-style
+all_nonempty_subsets	44	cvae_counterfactual	0.3884086010153321	3.0	Conditional VAE
+all_nonempty_subsets	44	gene_linear	0.0615800304398477	7.0	Gene shift
+all_nonempty_subsets	44	pca_latent	0.3640328499487575	6.0	PCA shift
+all_nonempty_subsets	44	scgen_adapted	0.3973359136671831	1.0	scGen-style
+all_nonempty_subsets	44	sinkhorn_ot	0.379728128936979	5.0	Sinkhorn OT
+all_nonempty_subsets	44	vae_latent	0.3910593717691348	2.0	VAE
+all_nonempty_subsets	45	cpa_adapted	0.4146244579889586	4.0	CPA-style
+all_nonempty_subsets	45	cvae_counterfactual	0.4224188996200402	3.0	Conditional VAE
+all_nonempty_subsets	45	gene_linear	0.0636482234875208	7.0	Gene shift
+all_nonempty_subsets	45	pca_latent	0.3931446705261608	6.0	PCA shift
+all_nonempty_subsets	45	scgen_adapted	0.4318286854285131	1.0	scGen-style
+all_nonempty_subsets	45	sinkhorn_ot	0.4111439195434126	5.0	Sinkhorn OT
+all_nonempty_subsets	45	vae_latent	0.4248151233069255	2.0	VAE
+all_nonempty_subsets	46	cpa_adapted	0.4806895969784797	5.0	CPA-style
+all_nonempty_subsets	46	cvae_counterfactual	0.489479028613686	3.0	Conditional VAE
+all_nonempty_subsets	46	gene_linear	0.0930117653568836	7.0	Gene shift
+all_nonempty_subsets	46	pca_latent	0.4735034900971279	6.0	PCA shift
+all_nonempty_subsets	46	scgen_adapted	0.5008102115040328	1.0	scGen-style
+all_nonempty_subsets	46	sinkhorn_ot	0.4880212250145327	4.0	Sinkhorn OT
+all_nonempty_subsets	46	vae_latent	0.4988801402809425	2.0	VAE
+all_nonempty_subsets	47	cpa_adapted	0.4767016527471079	3.0	CPA-style
+all_nonempty_subsets	47	cvae_counterfactual	0.4752575315725138	4.0	Conditional VAE
+all_nonempty_subsets	47	gene_linear	0.0972415340761816	7.0	Gene shift
+all_nonempty_subsets	47	pca_latent	0.4609099154031341	6.0	PCA shift
+all_nonempty_subsets	47	scgen_adapted	0.4862925880951349	1.0	scGen-style
+all_nonempty_subsets	47	sinkhorn_ot	0.4709944734731279	5.0	Sinkhorn OT
+all_nonempty_subsets	47	vae_latent	0.4834421974265109	2.0	VAE
+all_nonempty_subsets	48	cpa_adapted	0.5028655862745338	5.0	CPA-style
+all_nonempty_subsets	48	cvae_counterfactual	0.5101124644323262	3.0	Conditional VAE
+all_nonempty_subsets	48	gene_linear	0.1005193892699927	7.0	Gene shift
+all_nonempty_subsets	48	pca_latent	0.4903629579085155	6.0	PCA shift
+all_nonempty_subsets	48	scgen_adapted	0.5216191059629349	1.0	scGen-style
+all_nonempty_subsets	48	sinkhorn_ot	0.502909881878681	4.0	Sinkhorn OT
+all_nonempty_subsets	48	vae_latent	0.5188482520932542	2.0	VAE
+all_nonempty_subsets	49	cpa_adapted	0.5203936247096851	5.0	CPA-style
+all_nonempty_subsets	49	cvae_counterfactual	0.544172309704257	3.0	Conditional VAE
+all_nonempty_subsets	49	gene_linear	0.0928143436794848	7.0	Gene shift
+all_nonempty_subsets	49	pca_latent	0.5130634602726325	6.0	PCA shift
+all_nonempty_subsets	49	scgen_adapted	0.5541841764657178	1.0	scGen-style
+all_nonempty_subsets	49	sinkhorn_ot	0.5360300124512896	4.0	Sinkhorn OT
+all_nonempty_subsets	49	vae_latent	0.5522386265048354	2.0	VAE
+all_nonempty_subsets	50	cpa_adapted	0.5099286400408898	5.0	CPA-style
+all_nonempty_subsets	50	cvae_counterfactual	0.5266585576621393	3.0	Conditional VAE
+all_nonempty_subsets	50	gene_linear	0.0949434083334827	7.0	Gene shift
+all_nonempty_subsets	50	pca_latent	0.4971803515957607	6.0	PCA shift
+all_nonempty_subsets	50	scgen_adapted	0.5370643700251125	1.0	scGen-style
+all_nonempty_subsets	50	sinkhorn_ot	0.5171217205300064	4.0	Sinkhorn OT
+all_nonempty_subsets	50	vae_latent	0.5351669601004427	2.0	VAE
+all_nonempty_subsets	51	cpa_adapted	0.5389488637470665	5.0	CPA-style
+all_nonempty_subsets	51	cvae_counterfactual	0.5623867003257563	3.0	Conditional VAE
+all_nonempty_subsets	51	gene_linear	0.0952161066130205	7.0	Gene shift
+all_nonempty_subsets	51	pca_latent	0.5263414516039557	6.0	PCA shift
+all_nonempty_subsets	51	scgen_adapted	0.5727808094755601	1.0	scGen-style
+all_nonempty_subsets	51	sinkhorn_ot	0.5484476553087996	4.0	Sinkhorn OT
+all_nonempty_subsets	51	vae_latent	0.5704777953598572	2.0	VAE
+all_nonempty_subsets	52	cpa_adapted	0.442361248332219	5.0	CPA-style
+all_nonempty_subsets	52	cvae_counterfactual	0.450213150640014	4.0	Conditional VAE
+all_nonempty_subsets	52	gene_linear	0.0843044183666898	7.0	Gene shift
+all_nonempty_subsets	52	pca_latent	0.4363123990053718	6.0	PCA shift
+all_nonempty_subsets	52	scgen_adapted	0.4613194812603989	1.0	scGen-style
+all_nonempty_subsets	52	sinkhorn_ot	0.4553515299933713	3.0	Sinkhorn OT
+all_nonempty_subsets	52	vae_latent	0.4588227936166527	2.0	VAE
+all_nonempty_subsets	53	cpa_adapted	0.4326135974438463	3.0	CPA-style
+all_nonempty_subsets	53	cvae_counterfactual	0.4315288939165596	5.0	Conditional VAE
+all_nonempty_subsets	53	gene_linear	0.0850332890394003	7.0	Gene shift
+all_nonempty_subsets	53	pca_latent	0.4179689687670164	6.0	PCA shift
+all_nonempty_subsets	53	scgen_adapted	0.4431566714396646	1.0	scGen-style
+all_nonempty_subsets	53	sinkhorn_ot	0.4324597302801141	4.0	Sinkhorn OT
+all_nonempty_subsets	53	vae_latent	0.4403555492279241	2.0	VAE
+all_nonempty_subsets	54	cpa_adapted	0.4597041772098078	5.0	CPA-style
+all_nonempty_subsets	54	cvae_counterfactual	0.4655391925212676	3.0	Conditional VAE
+all_nonempty_subsets	54	gene_linear	0.0871014820870735	7.0	Gene shift
+all_nonempty_subsets	54	pca_latent	0.4470807893444196	6.0	PCA shift
+all_nonempty_subsets	54	scgen_adapted	0.4776494432009946	1.0	scGen-style
+all_nonempty_subsets	54	sinkhorn_ot	0.4638755208865476	4.0	Sinkhorn OT
+all_nonempty_subsets	54	vae_latent	0.4741113007657147	2.0	VAE
+all_nonempty_subsets	55	cpa_adapted	0.4065519849903867	4.0	CPA-style
+all_nonempty_subsets	55	cvae_counterfactual	0.4157574422698412	2.0	Conditional VAE
+all_nonempty_subsets	55	gene_linear	0.0621537010261925	7.0	Gene shift
+all_nonempty_subsets	55	pca_latent	0.3755810654426078	6.0	PCA shift
+all_nonempty_subsets	55	scgen_adapted	0.4181850784885395	1.0	scGen-style
+all_nonempty_subsets	55	sinkhorn_ot	0.3902374450826903	5.0	Sinkhorn OT
+all_nonempty_subsets	55	vae_latent	0.4154298584798778	3.0	VAE
+all_nonempty_subsets	56	cpa_adapted	0.402564040759015	2.0	CPA-style
+all_nonempty_subsets	56	cvae_counterfactual	0.401535945228669	3.0	Conditional VAE
+all_nonempty_subsets	56	gene_linear	0.0663834697454905	7.0	Gene shift
+all_nonempty_subsets	56	pca_latent	0.3629874907486141	6.0	PCA shift
+all_nonempty_subsets	56	scgen_adapted	0.4036674550796416	1.0	scGen-style
+all_nonempty_subsets	56	sinkhorn_ot	0.3732106935412855	5.0	Sinkhorn OT
+all_nonempty_subsets	56	vae_latent	0.3999919156254463	4.0	VAE
+all_nonempty_subsets	57	cpa_adapted	0.4287279742864409	4.0	CPA-style
+all_nonempty_subsets	57	cvae_counterfactual	0.4363908780884813	2.0	Conditional VAE
+all_nonempty_subsets	57	gene_linear	0.0696613249393015	7.0	Gene shift
+all_nonempty_subsets	57	pca_latent	0.3924405332539954	6.0	PCA shift
+all_nonempty_subsets	57	scgen_adapted	0.4389939729474416	1.0	scGen-style
+all_nonempty_subsets	57	sinkhorn_ot	0.4051261019468386	5.0	Sinkhorn OT
+all_nonempty_subsets	57	vae_latent	0.4353979702921896	3.0	VAE
+all_nonempty_subsets	58	cpa_adapted	0.4462560127215921	4.0	CPA-style
+all_nonempty_subsets	58	cvae_counterfactual	0.4704507233604121	2.0	Conditional VAE
+all_nonempty_subsets	58	gene_linear	0.0619562793487936	7.0	Gene shift
+all_nonempty_subsets	58	pca_latent	0.4151410356181125	6.0	PCA shift
+all_nonempty_subsets	58	scgen_adapted	0.4715590434502246	1.0	scGen-style
+all_nonempty_subsets	58	sinkhorn_ot	0.4382462325194471	5.0	Sinkhorn OT
+all_nonempty_subsets	58	vae_latent	0.4687883447037707	3.0	VAE
+all_nonempty_subsets	59	cpa_adapted	0.4357910280527968	4.0	CPA-style
+all_nonempty_subsets	59	cvae_counterfactual	0.4529369713182945	2.0	Conditional VAE
+all_nonempty_subsets	59	gene_linear	0.0640853440027916	7.0	Gene shift
+all_nonempty_subsets	59	pca_latent	0.3992579269412407	6.0	PCA shift
+all_nonempty_subsets	59	scgen_adapted	0.4544392370096193	1.0	scGen-style
+all_nonempty_subsets	59	sinkhorn_ot	0.419337940598164	5.0	Sinkhorn OT
+all_nonempty_subsets	59	vae_latent	0.4517166782993781	3.0	VAE
+all_nonempty_subsets	60	cpa_adapted	0.4648112517589735	4.0	CPA-style
+all_nonempty_subsets	60	cvae_counterfactual	0.4886651139819115	2.0	Conditional VAE
+all_nonempty_subsets	60	gene_linear	0.0643580422823294	7.0	Gene shift
+all_nonempty_subsets	60	pca_latent	0.4284190269494357	6.0	PCA shift
+all_nonempty_subsets	60	scgen_adapted	0.4901556764600668	1.0	scGen-style
+all_nonempty_subsets	60	sinkhorn_ot	0.4506638753769571	5.0	Sinkhorn OT
+all_nonempty_subsets	60	vae_latent	0.4870275135587926	3.0	VAE
+all_nonempty_subsets	61	cpa_adapted	0.368223636344126	4.0	CPA-style
+all_nonempty_subsets	61	cvae_counterfactual	0.3764915642961692	2.0	Conditional VAE
+all_nonempty_subsets	61	gene_linear	0.0534463540359987	7.0	Gene shift
+all_nonempty_subsets	61	pca_latent	0.3383899743508517	6.0	PCA shift
+all_nonempty_subsets	61	scgen_adapted	0.3786943482449056	1.0	scGen-style
+all_nonempty_subsets	61	sinkhorn_ot	0.3575677500615289	5.0	Sinkhorn OT
+all_nonempty_subsets	61	vae_latent	0.375372511815588	3.0	VAE
+all_nonempty_subsets	62	cpa_adapted	0.3584759854557534	2.0	CPA-style
+all_nonempty_subsets	62	cvae_counterfactual	0.3578073075727147	3.0	Conditional VAE
+all_nonempty_subsets	62	gene_linear	0.0541752247087092	7.0	Gene shift
+all_nonempty_subsets	62	pca_latent	0.3200465441124963	6.0	PCA shift
+all_nonempty_subsets	62	scgen_adapted	0.3605315384241714	1.0	scGen-style
+all_nonempty_subsets	62	sinkhorn_ot	0.3346759503482716	5.0	Sinkhorn OT
+all_nonempty_subsets	62	vae_latent	0.3569052674268594	4.0	VAE
+all_nonempty_subsets	63	cpa_adapted	0.3855665652217148	4.0	CPA-style
+all_nonempty_subsets	63	cvae_counterfactual	0.3918176061774228	2.0	Conditional VAE
+all_nonempty_subsets	63	gene_linear	0.0562434177563824	7.0	Gene shift
+all_nonempty_subsets	63	pca_latent	0.3491583646898996	6.0	PCA shift
+all_nonempty_subsets	63	scgen_adapted	0.3950243101855014	1.0	scGen-style
+all_nonempty_subsets	63	sinkhorn_ot	0.3660917409547052	5.0	Sinkhorn OT
+all_nonempty_subsets	63	vae_latent	0.3906610189646501	3.0	VAE
+all_nonempty_subsets	64	cpa_adapted	0.3755649837475393	4.0	CPA-style
+all_nonempty_subsets	64	cvae_counterfactual	0.3847226693257264	2.0	Conditional VAE
+all_nonempty_subsets	64	gene_linear	0.0320672919454355	7.0	Gene shift
+all_nonempty_subsets	64	pca_latent	0.3404732708291714	6.0	PCA shift
+all_nonempty_subsets	64	scgen_adapted	0.3870540419467234	1.0	scGen-style
+all_nonempty_subsets	64	sinkhorn_ot	0.3549081667966066	5.0	Sinkhorn OT
+all_nonempty_subsets	64	vae_latent	0.380567063160932	3.0	VAE
+all_nonempty_subsets	65	cpa_adapted	0.3715770395161676	2.0	CPA-style
+all_nonempty_subsets	65	cvae_counterfactual	0.3705011722845542	3.0	Conditional VAE
+all_nonempty_subsets	65	gene_linear	0.0362970606647335	7.0	Gene shift
+all_nonempty_subsets	65	pca_latent	0.3278796961351777	6.0	PCA shift
+all_nonempty_subsets	65	scgen_adapted	0.3725364185378255	1.0	scGen-style
+all_nonempty_subsets	65	sinkhorn_ot	0.3378814152552019	5.0	Sinkhorn OT
+all_nonempty_subsets	65	vae_latent	0.3651291203065004	4.0	VAE
+all_nonempty_subsets	66	cpa_adapted	0.3977409730435935	4.0	CPA-style
+all_nonempty_subsets	66	cvae_counterfactual	0.4053561051443666	2.0	Conditional VAE
+all_nonempty_subsets	66	gene_linear	0.0395749158585445	7.0	Gene shift
+all_nonempty_subsets	66	pca_latent	0.3573327386405591	6.0	PCA shift
+all_nonempty_subsets	66	scgen_adapted	0.4078629364056255	1.0	scGen-style
+all_nonempty_subsets	66	sinkhorn_ot	0.369796823660755	5.0	Sinkhorn OT
+all_nonempty_subsets	66	vae_latent	0.4005351749732438	3.0	VAE
+all_nonempty_subsets	67	cpa_adapted	0.4152690114787447	4.0	CPA-style
+all_nonempty_subsets	67	cvae_counterfactual	0.4394159504162974	2.0	Conditional VAE
+all_nonempty_subsets	67	gene_linear	0.0318698702680366	7.0	Gene shift
+all_nonempty_subsets	67	pca_latent	0.3800332410046761	6.0	PCA shift
+all_nonempty_subsets	67	scgen_adapted	0.4404280069084085	1.0	scGen-style
+all_nonempty_subsets	67	sinkhorn_ot	0.4029169542333635	5.0	Sinkhorn OT
+all_nonempty_subsets	67	vae_latent	0.4339255493848248	3.0	VAE
+all_nonempty_subsets	68	cpa_adapted	0.4048040268099493	4.0	CPA-style
+all_nonempty_subsets	68	cvae_counterfactual	0.4219021983741798	2.0	Conditional VAE
+all_nonempty_subsets	68	gene_linear	0.0339989349220345	7.0	Gene shift
+all_nonempty_subsets	68	pca_latent	0.3641501323278043	6.0	PCA shift
+all_nonempty_subsets	68	scgen_adapted	0.4233082004678031	1.0	scGen-style
+all_nonempty_subsets	68	sinkhorn_ot	0.3840086623120803	5.0	Sinkhorn OT
+all_nonempty_subsets	68	vae_latent	0.4168538829804322	3.0	VAE
+all_nonempty_subsets	69	cpa_adapted	0.4338242505161261	4.0	CPA-style
+all_nonempty_subsets	69	cvae_counterfactual	0.4576303410377968	2.0	Conditional VAE
+all_nonempty_subsets	69	gene_linear	0.0342716332015723	7.0	Gene shift
+all_nonempty_subsets	69	pca_latent	0.3933112323359993	6.0	PCA shift
+all_nonempty_subsets	69	scgen_adapted	0.4590246399182507	1.0	scGen-style
+all_nonempty_subsets	69	sinkhorn_ot	0.4153345970908735	5.0	Sinkhorn OT
+all_nonempty_subsets	69	vae_latent	0.4521647182398467	3.0	VAE
+all_nonempty_subsets	70	cpa_adapted	0.3372366351012786	4.0	CPA-style
+all_nonempty_subsets	70	cvae_counterfactual	0.3454567913520545	2.0	Conditional VAE
+all_nonempty_subsets	70	gene_linear	0.0233599449552416	7.0	Gene shift
+all_nonempty_subsets	70	pca_latent	0.3032821797374153	6.0	PCA shift
+all_nonempty_subsets	70	scgen_adapted	0.3475633117030895	1.0	scGen-style
+all_nonempty_subsets	70	sinkhorn_ot	0.3222384717754453	5.0	Sinkhorn OT
+all_nonempty_subsets	70	vae_latent	0.3405097164966422	3.0	VAE
+all_nonempty_subsets	71	cpa_adapted	0.327488984212906	2.0	CPA-style
+all_nonempty_subsets	71	cvae_counterfactual	0.3267725346286	3.0	Conditional VAE
+all_nonempty_subsets	71	gene_linear	0.0240888156279522	7.0	Gene shift
+all_nonempty_subsets	71	pca_latent	0.2849387494990599	6.0	PCA shift
+all_nonempty_subsets	71	scgen_adapted	0.3294005018823552	1.0	scGen-style
+all_nonempty_subsets	71	sinkhorn_ot	0.299346672062188	5.0	Sinkhorn OT
+all_nonempty_subsets	71	vae_latent	0.3220424721079136	4.0	VAE
+all_nonempty_subsets	72	cpa_adapted	0.3545795639788674	4.0	CPA-style
+all_nonempty_subsets	72	cvae_counterfactual	0.3607828332333081	2.0	Conditional VAE
+all_nonempty_subsets	72	gene_linear	0.0261570086756254	7.0	Gene shift
+all_nonempty_subsets	72	pca_latent	0.3140505700764632	6.0	PCA shift
+all_nonempty_subsets	72	scgen_adapted	0.3638932736436853	1.0	scGen-style
+all_nonempty_subsets	72	sinkhorn_ot	0.3307624626686216	5.0	Sinkhorn OT
+all_nonempty_subsets	72	vae_latent	0.3557982236457042	3.0	VAE
+all_nonempty_subsets	73	cpa_adapted	0.4235581950602887	4.0	CPA-style
+all_nonempty_subsets	73	cvae_counterfactual	0.4333164716625783	2.0	Conditional VAE
+all_nonempty_subsets	73	gene_linear	0.049116886559046	7.0	Gene shift
+all_nonempty_subsets	73	pca_latent	0.3907371616801673	6.0	PCA shift
+all_nonempty_subsets	73	scgen_adapted	0.4348201640576591	1.0	scGen-style
+all_nonempty_subsets	73	sinkhorn_ot	0.4077711062135514	5.0	Sinkhorn OT
+all_nonempty_subsets	73	vae_latent	0.4299549082617505	3.0	VAE
+all_nonempty_subsets	74	cpa_adapted	0.4195702508289169	2.0	CPA-style
+all_nonempty_subsets	74	cvae_counterfactual	0.4190949746214062	3.0	Conditional VAE
+all_nonempty_subsets	74	gene_linear	0.0533466552783439	7.0	Gene shift
+all_nonempty_subsets	74	pca_latent	0.3781435869861735	6.0	PCA shift
+all_nonempty_subsets	74	scgen_adapted	0.4203025406487612	1.0	scGen-style
+all_nonempty_subsets	74	sinkhorn_ot	0.3907443546721466	5.0	Sinkhorn OT
+all_nonempty_subsets	74	vae_latent	0.4145169654073191	4.0	VAE
+all_nonempty_subsets	75	cpa_adapted	0.4457341843563429	4.0	CPA-style
+all_nonempty_subsets	75	cvae_counterfactual	0.4539499074812186	2.0	Conditional VAE
+all_nonempty_subsets	75	gene_linear	0.056624510472155	7.0	Gene shift
+all_nonempty_subsets	75	pca_latent	0.4075966294915549	6.0	PCA shift
+all_nonempty_subsets	75	scgen_adapted	0.4556290585165612	1.0	scGen-style
+all_nonempty_subsets	75	sinkhorn_ot	0.4226597630776997	5.0	Sinkhorn OT
+all_nonempty_subsets	75	vae_latent	0.4499230200740624	3.0	VAE
+all_nonempty_subsets	76	cpa_adapted	0.4632622227914941	4.0	CPA-style
+all_nonempty_subsets	76	cvae_counterfactual	0.4880097527531493	2.0	Conditional VAE
+all_nonempty_subsets	76	gene_linear	0.0489194648816471	7.0	Gene shift
+all_nonempty_subsets	76	pca_latent	0.430297131855672	6.0	PCA shift
+all_nonempty_subsets	76	scgen_adapted	0.4881941290193441	1.0	scGen-style
+all_nonempty_subsets	76	sinkhorn_ot	0.4557798936503082	5.0	Sinkhorn OT
+all_nonempty_subsets	76	vae_latent	0.4833133944856434	3.0	VAE
+all_nonempty_subsets	77	cpa_adapted	0.4527972381226987	4.0	CPA-style
+all_nonempty_subsets	77	cvae_counterfactual	0.4704960007110317	2.0	Conditional VAE
+all_nonempty_subsets	77	gene_linear	0.051048529535645	7.0	Gene shift
+all_nonempty_subsets	77	pca_latent	0.4144140231788001	6.0	PCA shift
+all_nonempty_subsets	77	scgen_adapted	0.4710743225787388	1.0	scGen-style
+all_nonempty_subsets	77	sinkhorn_ot	0.436871601729025	5.0	Sinkhorn OT
+all_nonempty_subsets	77	vae_latent	0.4662417280812508	3.0	VAE
+all_nonempty_subsets	78	cpa_adapted	0.4818174618288755	4.0	CPA-style
+all_nonempty_subsets	78	cvae_counterfactual	0.5062241433746487	2.0	Conditional VAE
+all_nonempty_subsets	78	gene_linear	0.0513212278151828	7.0	Gene shift
+all_nonempty_subsets	78	pca_latent	0.4435751231869952	6.0	PCA shift
+all_nonempty_subsets	78	scgen_adapted	0.5067907620291864	1.0	scGen-style
+all_nonempty_subsets	78	sinkhorn_ot	0.4681975365078182	5.0	Sinkhorn OT
+all_nonempty_subsets	78	vae_latent	0.5015525633406653	3.0	VAE
+all_nonempty_subsets	79	cpa_adapted	0.385229846414028	4.0	CPA-style
+all_nonempty_subsets	79	cvae_counterfactual	0.3940505936889064	2.0	Conditional VAE
+all_nonempty_subsets	79	gene_linear	0.0404095395688521	7.0	Gene shift
+all_nonempty_subsets	79	pca_latent	0.3535460705884112	6.0	PCA shift
+all_nonempty_subsets	79	scgen_adapted	0.3953294338140252	1.0	scGen-style
+all_nonempty_subsets	79	sinkhorn_ot	0.37510141119239	5.0	Sinkhorn OT
+all_nonempty_subsets	79	vae_latent	0.3898975615974607	3.0	VAE
+all_nonempty_subsets	80	cpa_adapted	0.3754821955256554	2.0	CPA-style
+all_nonempty_subsets	80	cvae_counterfactual	0.3753663369654519	3.0	Conditional VAE
+all_nonempty_subsets	80	gene_linear	0.0411384102415627	7.0	Gene shift
+all_nonempty_subsets	80	pca_latent	0.3352026403500558	6.0	PCA shift
+all_nonempty_subsets	80	scgen_adapted	0.3771666239932909	1.0	scGen-style
+all_nonempty_subsets	80	sinkhorn_ot	0.3522096114791327	5.0	Sinkhorn OT
+all_nonempty_subsets	80	vae_latent	0.3714303172087321	4.0	VAE
+all_nonempty_subsets	81	cpa_adapted	0.4025727752916168	4.0	CPA-style
+all_nonempty_subsets	81	cvae_counterfactual	0.40937663557016	2.0	Conditional VAE
+all_nonempty_subsets	81	gene_linear	0.0432066032892358	7.0	Gene shift
+all_nonempty_subsets	81	pca_latent	0.3643144609274591	6.0	PCA shift
+all_nonempty_subsets	81	scgen_adapted	0.4116593957546209	1.0	scGen-style
+all_nonempty_subsets	81	sinkhorn_ot	0.3836254020855663	5.0	Sinkhorn OT
+all_nonempty_subsets	81	vae_latent	0.4051860687465228	3.0	VAE

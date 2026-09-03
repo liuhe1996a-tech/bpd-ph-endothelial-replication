@@ -1,0 +1,8 @@
+analysis	method	configurations	mean_spearman	minimum_spearman	maximum_spearman	median_rank	minimum_rank	maximum_rank	times_ranked_first	times_ranked_top3	fraction_ranked_first	fraction_ranked_top3
+one_pair_per_age_oxygen_stratum	cpa_adapted	16	0.45630135591537796	0.4095105383025594	0.5025886335570935	4.0	1.0	5.0	2	4	0.125	0.25
+one_pair_per_age_oxygen_stratum	cvae_counterfactual	16	0.46738579259042695	0.40524628875192537	0.5240118613753235	3.0	1.0	4.0	1	15	0.0625	0.9375
+one_pair_per_age_oxygen_stratum	gene_linear	16	0.06183232299205572	0.02740038413843734	0.10373794859899366	7.0	7.0	7.0	0	0	0.0	0.0
+one_pair_per_age_oxygen_stratum	pca_latent	16	0.4223573297224963	0.35463049988243484	0.49489361026826795	6.0	6.0	6.0	0	0	0.0	0.0
+one_pair_per_age_oxygen_stratum	scgen_adapted	16	0.4729943178508569	0.4088521196773819	0.5341253776927246	1.0	1.0	2.0	9	16	0.5625	1.0
+one_pair_per_age_oxygen_stratum	sinkhorn_ot	16	0.4383848530614562	0.36365098104498716	0.5145244708329788	5.0	4.0	5.0	0	0	0.0	0.0
+one_pair_per_age_oxygen_stratum	vae_latent	16	0.46707046956366405	0.39785229698493285	0.5351216500141972	2.5	1.0	4.0	4	13	0.25	0.8125

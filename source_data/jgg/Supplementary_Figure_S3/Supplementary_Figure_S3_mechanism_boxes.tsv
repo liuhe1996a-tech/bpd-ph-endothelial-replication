@@ -1,0 +1,25 @@
+id	xmin	xmax	ymin	ymax	fill	border	label
+mouse	0.02	0.32	0.56	0.94	#E4EEF5	#2C5F8A	"Mouse replication layer
+P14 age x oxygen contrast
+198 directional genes
+33 genes in >=3 subtypes"
+respiration	0.35	0.65	0.56	0.94	#E4EEF5	#2C5F8A	"Respiration-annotated sets
+Oxidative phosphorylation
+and electron transport
+Directional replication"
+stress	0.68	0.98	0.56	0.94	#F6E7E3	#C95046	"Stress-program annotations
+p53, ROS and apoptosis
+Transcript-level evidence
+No causal mediation claim"
+ecm	0.02	0.32	0.08	0.46	#EEE7F4	#755B9C	"Matrix-program annotations
+ECM organization and turnover
+Transcript-level evidence
+No structural validation"
+composition	0.35	0.65	0.08	0.46	#E8F0EA	#4F8C77	"Recovered composition
+P14 CLR permutation P=0.0022
+Association with recovered states
+Not causal remodeling"
+human	0.68	0.98	0.08	0.46	#FFF2EB	#D97932	"Human projection
+BPD n=2 | BPD+PH n=2
+12.8-fold recovery imbalance
+Exploratory support only"

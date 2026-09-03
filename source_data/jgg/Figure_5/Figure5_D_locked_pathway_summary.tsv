@@ -1,0 +1,5 @@
+population	pathways_tested	direction_concordant	replicated	fraction_direction_concordant
+all_endothelium	156	42	0	0.2692307692307692
+capillary_combined	156	45	0	0.28846153846153844
+CAP1	156	46	0	0.2948717948717949
+CAP2	156	55	0	0.3525641025641026

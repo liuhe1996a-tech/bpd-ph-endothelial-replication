@@ -1,14 +1,37 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the associated manuscript."
-title: "BPD-PH endothelial replication and cross-species projection"
+message: "If you use this software or its released results, please cite this record."
+title: "Cross-cohort single-cell genomics of neonatal hyperoxia reveals reproducible endothelial responses and cohort-dependent model rankings"
 type: software
 authors:
   - family-names: Liu
     given-names: He
+    affiliation: "Shengjing Hospital of China Medical University"
   - family-names: Feng
     given-names: Xibin
+    affiliation: "Shengjing Hospital of China Medical University"
   - family-names: Sun
     given-names: Le
+    affiliation: "Shengjing Hospital of China Medical University"
   - family-names: Yang
     given-names: Miao
-date-released: 2026-07-31
+    affiliation: "Shengjing Hospital of China Medical University"
+version: 1.0.0-jgg
+doi: 10.5281/zenodo.22263929
+date-released: 2026-09-03
+repository-code: https://github.com/liuhe1996a-tech/bpd-ph-endothelial-replication
+url: https://doi.org/10.5281/zenodo.22263929
+license: MIT
+keywords:
+  - single-cell RNA sequencing
+  - neonatal hyperoxia
+  - bronchopulmonary dysplasia
+  - endothelial cells
+  - perturbation prediction
+  - cross-cohort replication
+  - cross-species transfer
+  - reproducible research
+abstract: >-
+  Versioned Python and R workflows, derived results, source tables, figures, and
+  audit documentation accompanying the JGG manuscript on reproducible mouse
+  endothelial responses to neonatal hyperoxia, cohort-dependent prediction
+  rankings, and limited broad mouse-to-human transfer.
